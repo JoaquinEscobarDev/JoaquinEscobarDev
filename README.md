@@ -19,3 +19,9 @@ Seguimiento del tipo de cambio con 7 indicadores técnicos (RSI, SMA, EMA, MACD,
 
 `JavaScript` `Node.js` `Express` `PHP` `Laravel` `HTML/CSS` `MySQL` `PostgreSQL` `Git`
 
+## 📜 Certificaciones
+
+<img src="./assets/badge-ciberseguridad.png" alt="Diplomado en Ciberseguridad - IPSS" width="180"/>
+
+**Diplomado en Ciberseguridad** — Instituto Profesional San Sebastián (IPSS)
+
