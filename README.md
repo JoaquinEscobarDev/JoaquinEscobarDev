@@ -6,6 +6,7 @@ Desarrollador Fullstack enfocado en **JavaScript/Node.js** y **PHP/Laravel**, co
 - 🛡️ Diplomado en Ciberseguridad (IPSS) — aplico criterios de seguridad desde el diseño
 - 🌱 Aprendiendo constantemente sobre infraestructura y despliegue (Railway, VPS)
 - 📫 Contacto: joaquin.escobar.dev@gmail.com | [LinkedIn](https://linkedin.com/in/joaquinescobarlet)
+- 📄 [Descargar mi CV](./cv/cv.pdf)
 
 ## 🚀 Proyectos destacados
 
